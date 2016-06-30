@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1379061739 source:d:\daten\privat\cortipluginstest\dynplugins\cortibattleblend\main.cpp
+	<DynRPG/DynRPG.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../../Project1/DynPlugins/CortiSys/helper.cpp"
+	"Screentone.cpp"
+
+1377777719 d:\daten\privat\project1\dynplugins\cortisys\helper.cpp
+	<sstream>
+
+1379061940 d:\daten\privat\cortipluginstest\dynplugins\cortibattleblend\screentone.cpp
+
+1467281850 source:d:\daten\malte\github\cortibattleblend\source\main.cpp
+	<DynRPG/DynRPG.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"Dialogs.cpp"
+	"Configuration.cpp"
+	"Screentone.cpp"
+
+1467277652 d:\daten\malte\github\cortibattleblend\source\screentone.cpp
+
+1467278939 d:\daten\malte\github\cortibattleblend\source\configuration.cpp
+
+1467277217 d:\daten\malte\github\cortibattleblend\source\dialogs.cpp
+
