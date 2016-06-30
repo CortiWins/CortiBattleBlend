@@ -1,6 +1,6 @@
 CortiBattleBlend DynRPG PlugIn V0.2 for RPG Maker 2003 with DynRPG v0.20 or higher
 
-github.com/CortiWins/CortiCustomCrit
+https://github.com/CortiWins/CortiBattleBlend
 *******************************************************************
 *                     Author
 *******************************************************************
